@@ -39,6 +39,7 @@ El análisis indica que, aunque existen diferencias estadísticas significativas
 
 ## **Cómo Ejecutar el Proyecto**
 
-1. **Clonar el repositorio:**
-
+1. **Clonar el enlace del repositorio:**
+   
+https://github.com/Adalab/bda-modulo-3-evaluacion-final-PaolaNSDP.git
    
